@@ -90,36 +90,3 @@ Further analysis can be done to improve the accuracy of the predictive model. Th
 [![Googlecolab](https://colab.research.google.com/drive/1ouMHO9T7X4klS7Dg0JOOV2JiuXrGkIHz?usp=sharing)]
 
 
-{
-  "nbformat": 4,
-  "nbformat_minor": 0,
-  "metadata": {
-    "colab": {
-      "provenance": []
-    },
-    "kernelspec": {
-      "name": "python3",
-      "display_name": "Python 3"
-    },
-    "language_info": {
-      "name": "python"
-    },
-    "accelerator": "GPU"
-  },
-  "cells": [
-    {
-      "cell_type": "code",
-      "metadata": {
-        "id": "OnTz-4-1SMBZ"
-      },
-      "source": [
-        "#computing package\n",
-        "import pandas as pd\n",
-        "#data struc\n",
-        "import numpy as np\n",
-        "# graph\n",
-        "import matplotlib.pyplot as plt\n"
-      ],
-      "execution_count": 3,
-      "outputs": []
-    },
