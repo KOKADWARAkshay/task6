@@ -44,7 +44,6 @@ Poutcome: The outcome of the previous marketing campaign
 
 Y: Whether the customer has purchased car insurance (our target variable)
 
-Tools
 
 ## Tools and libraries 
 
