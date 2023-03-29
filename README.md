@@ -13,23 +13,41 @@ The dataset provided by the bank contains the following fields:
 Age: The age of the customer
 
 Job: The type of job the customer has
+
 Marital: The marital status of the customer
+
 Education: The level of education of the customer
+
 Default: Whether the customer has defaulted on any loans
+
 Balance: The current balance in the customer's account
+
 Housing: Whether the customer has a housing loan
+
 Loan: Whether the customer has a personal loan
+
 Contact: The method of communication used to contact the customer
+
 Day: The day of the month when the customer was last contacted
+
 Month: The month of the year when the customer was last contacted
+
 Duration: The duration of the last contact with the customer
+
 Campaign: The number of contacts made during this campaign
+
 Pdays: The number of days since the customer was last contacted (0 means the customer was not contacted previously)
+
 Previous: The number of contacts made with the customer in previous campaigns
+
 Poutcome: The outcome of the previous marketing campaign
+
 Y: Whether the customer has purchased car insurance (our target variable)
+
 Tools
-## Tools and libraries  
+
+## Tools and libraries 
+
 Python
 
 Google Colab
