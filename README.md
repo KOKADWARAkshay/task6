@@ -11,6 +11,7 @@ You have information on 3100 customers who were contacted during the previous ca
 The dataset provided by the bank contains the following fields:
 
 Age: The age of the customer
+
 Job: The type of job the customer has
 Marital: The marital status of the customer
 Education: The level of education of the customer
