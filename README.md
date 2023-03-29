@@ -82,5 +82,44 @@ The analysis provides insights into the factors that influence a customer's deci
 ## Future Work
 
 Further analysis can be done to improve the accuracy of the predictive model. This can be achieved by using more advanced machine learning algorithms such as Neural Networks or Support Vector Machines, or by optimizing the parameters of the existing models. Additionally, the analysis can be extended to include more variables such as the customer's credit score or the type of car they own, which can provide more insights into the customer's behavior.
+
 ![Insure Your Car](https://github.com/KOKADWARAkshay/task6/blob/main/carisnurlogo.jpg)
 
+## 🔗 Links
+
+[![Googlecolab](https://colab.research.google.com/drive/1ouMHO9T7X4klS7Dg0JOOV2JiuXrGkIHz?usp=sharing)]
+
+
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    },
+    "accelerator": "GPU"
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "OnTz-4-1SMBZ"
+      },
+      "source": [
+        "#computing package\n",
+        "import pandas as pd\n",
+        "#data struc\n",
+        "import numpy as np\n",
+        "# graph\n",
+        "import matplotlib.pyplot as plt\n"
+      ],
+      "execution_count": 3,
+      "outputs": []
+    },
